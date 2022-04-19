@@ -8238,6 +8238,9 @@ fieldset:disabled .btn {
 .border-primary {
   border-color: #242e4c !important;
 }
+.border-highlight {
+  border-color: var(--highlight-color) !important;
+}
 .border-secondary {
   border-color: #1c2540 !important;
 }
